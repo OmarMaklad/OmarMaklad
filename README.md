@@ -69,8 +69,8 @@ Passionate about clean architecture (MVC, MVVM), problem-solving, and delivering
 
 ## 💼 Work Experience
 - **Sr. Flutter Developer** @ Trustangle (2/2024 - Present)  
-- **Sr. Flutter Developer** @ Jigsaw (7/2022 - 2/2024)  
-- **Flutter Developer** @ Fatura (3/2021 - 6/2022)  
+- **Sr. Flutter Developer** @ Dafa (7/2022 - 2/2024)  
+- **Flutter Developer** @ ibtdi (3/2021 - 6/2022)  
 
 ---
 
