@@ -82,9 +82,9 @@ Passionate about clean architecture (MVC, MVVM), problem-solving, and delivering
 ## 📫 Let's Connect
 - 📧 Email: omarmaklad6@gmail.com  
 - 📱 Phone: +201023569709  
-- 💼 LinkedIn: [linkedin.com/in/omar-maklad](https://www.linkedin.com/in/omar-maklad)  
+- 💼 LinkedIn: [linkedin.com/in/omar-maklad]([https://www.linkedin.com/in/omar-maklad](https://www.linkedin.com/in/omar-maklad-9882a21b3/))  
 - 💻 GitHub: [github.com/OmarMaklad](https://github.com/OmarMaklad)  
 
 ---
 
-⭐️ From [USERNAME_HERE](https://github.com/USERNAME_HERE)
+⭐️ From [Omar Maklad](https://github.com/OmarMaklad)
