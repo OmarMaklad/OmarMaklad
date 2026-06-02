@@ -1,90 +1,79 @@
-# Hi there, I'm Omar 👋
+<h1 align="center">Hey, I'm Omar Maklad 👋</h1>
+<h3 align="center">Senior Flutter Developer · Cairo, Egypt 🇪🇬</h3>
 
-🚀 **Senior Flutter Developer** with 6+ years of experience building high-quality mobile applications.  
-I specialize in **Flutter, Dart, Firebase, REST APIs, and iOS/Android deployment**.  
-Passionate about clean architecture (MVC, MVVM), problem-solving, and delivering production-ready apps.  
-
----
-
-## 📱 Featured Projects
-
-### 🥘 Maqloba  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.mozaic.www.maqloba)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/maqloba/id1461139172)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-54C5F8?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-6+%20Years-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apps-100K%2B%20Downloads-3FB950?style=flat&logo=google-play&logoColor=white"/>
+</p>
 
 ---
 
-### 🎬 Binge  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.jigsaw.binge)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/binge-%D8%A8%D9%86%D8%AC/id6450887409)  
+### 👨‍💻 About Me
+
+- 🚀 Senior Flutter Developer with **6+ years** of experience building production-scale mobile apps
+- 🏗️ Specialized in **Clean Architecture**, **BLoC**, **Riverpod**, and scalable state management
+- ⚙️ Reduced release time by **~50%** by building CI/CD pipelines with GitHub Actions & Fastlane
+- 📱 Currently building at **Trustangle**
+- 🌍 Based in Cairo, Egypt
 
 ---
 
-### 🍔 Regal Burger  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/regalburger-app/id6742725100)  
+### 💼 Work Experience
+
+| Period | Company | Role |
+|--------|---------|------|
+| 03/2024 – Present | **Trustangle** | Senior Flutter Developer |
+| 04/2024 – 04/2025 | **Fatura** | Senior Flutter Developer |
+| 08/2022 – 04/2024 | **Dafa** | Senior Flutter Developer |
+| 11/2021 – 12/2023 | **Ibtdi** | Flutter Developer |
+| 09/2020 – 10/2021 | **KW4S** | Flutter Developer |
 
 ---
 
-### 🏢 Twina (Food Ordering)  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.jigsaw.twina&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/twina/id1621281211)  
+### 🛠️ Tech Stack
+
+```dart
+final skills = {
+  'mobile'  : ['Flutter', 'Dart', 'Android', 'iOS'],
+  'state'   : ['BLoC', 'Riverpod', 'Provider', 'GetX'],
+  'backend' : ['Firebase', 'Firestore', 'REST APIs', 'SQLite', 'Hive'],
+  'cicd'    : ['GitHub Actions', 'GitLab CI', 'Fastlane', 'Codemagic'],
+  'testing' : ['Unit', 'Widget', 'Integration', 'TDD'],
+  'tools'   : ['Figma', 'Postman', 'Swagger', 'Jira'],
+};
+```
 
 ---
 
-### 🏙️ Burj Al Hamam  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=co.jigsawtech.burjalhamam&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/burj-al-hamam-ksa/id6477833985)  
+### 📊 By the Numbers
+
+| 🏆 Maqloba & Fatura | ⚡ CI/CD Impact | 📅 Experience |
+|:---:|:---:|:---:|
+| **100K+ downloads** | **~50% faster releases** | **6+ years** |
 
 ---
 
-### 🛍️ Lasuran (Beauty Center)  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.jigsaw.lasuran&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/lasuran/id6738307980)  
+### 🚀 Featured Projects
+
+| App | Description | Downloads |
+|-----|-------------|-----------|
+| 🥘 **Maqloba** | Food ordering with real-time tracking & Firebase | 100K+ |
+| 🏙️ **Burj Al Hamam** | Restaurant app with payments & real-time updates | 20K+ |
+| 📖 **Mushaf Ibtdi** | Cross-platform Quran reading & learning app | Production |
+| 🧠 **Abqary** | Educational platform — Parent & Supervisor apps | Production |
+| 🍔 **Twina** | Restaurant discovery, cart & order tracking | Production |
 
 ---
 
-### 🎮 Alsaqeefa (Gaming Hub)  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.jigsaw.alsaqeefa&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/alsaqeefa/id6448675851)  
+### 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-omarmaklad6@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omarmaklad6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Maklad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-maklad)
+[![GitHub](https://img.shields.io/badge/GitHub-OmarMaklad-181717?style=flat&logo=github&logoColor=white)](https://github.com/omarmaklad)
 
 ---
 
-### 🍽️ MFC Lifestyle  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.jigsaw.appmfc&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/mfc-app/id6740581301)  
-
----
-
-### 📖 Moshaf Ibtdi  
-[![Google Play](https://img.shields.io/badge/Google_Play-Download-green)](https://play.google.com/store/apps/details?id=com.ibtdi.moshaf_ibtdi&pcampaignid=web_share)  
-[![App Store](https://img.shields.io/badge/App_Store-Download-blue)](https://apps.apple.com/eg/app/%D9%85%D8%B5%D8%AD%D9%81-%D8%A7%D8%A8%D8%AA%D8%AF%D9%8A/id6467126826)  
-
----
-
-### 🧠 Abqary (Parents & Supervisor)  
-[![Google Play Parent](https://img.shields.io/badge/Google_Play-Parent_App-green)](https://play.google.com/store/apps/details?id=com.ibtdi.apqry_parent&pcampaignid=web_share)  
-[![Google Play Supervisor](https://img.shields.io/badge/Google_Play-Supervisor_App-green)](https://play.google.com/store/apps/details?id=com.ibtdi.abqary_supervisor&pcampaignid=web_share)  
-
----
-
-## 💼 Work Experience
-- **Sr. Flutter Developer** @ Trustangle (2/2024 - Present)  
-- **Sr. Flutter Developer** @ Dafa (7/2022 - 2/2024)  
-- **Flutter Developer** @ ibtdi (3/2021 - 6/2022)  
-
----
-
-## 🎓 Education
-- **Faculty of Computer Science and Information Systems**, Mansoura University — *Graduated 2020*  
-
----
-
-## 📫 Let's Connect
-- 📧 Email: omarmaklad6@gmail.com  
-- 📱 Phone: +201023569709  
-- 💼 LinkedIn: [linkedin.com/in/omar-maklad](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BjmjPrS5XR2KC5LDg9Uvd8A%3D%3D)  
-- 💻 GitHub: [github.com/OmarMaklad](https://github.com/omarmaklad)  
-
----
-
-⭐️ From [Omar Maklad](https://github.com/OmarMaklad)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omarmaklad&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" />
+</p>
