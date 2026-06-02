@@ -1,6 +1,6 @@
 # Hi there, I'm Omar 👋
 
-🚀 **Senior Flutter Developer** with 4+ years of experience building high-quality mobile applications.  
+🚀 **Senior Flutter Developer** with 6+ years of experience building high-quality mobile applications.  
 I specialize in **Flutter, Dart, Firebase, REST APIs, and iOS/Android deployment**.  
 Passionate about clean architecture (MVC, MVVM), problem-solving, and delivering production-ready apps.  
 
